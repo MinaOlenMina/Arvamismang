@@ -2,7 +2,7 @@
 color 0e
 title Ära arvamis mäng by Nitrous1M
 set /a guessnum=0
-set /a answer=%1-1000%
+set /a answer=%1to1000%
 set variable1=surf33
 echo -------------------------------------------------
 echo Arvamismäng! 
