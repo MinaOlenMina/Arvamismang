@@ -1,13 +1,13 @@
 @echo off
 color a
-title Ära arvamis mäng by Nitrous1M
+title Arvamismang
 set /a guessnum=0
 set /a answer=%RANDOM%
 set variable1=surf33
 echo -------------------------------------------------
-echo Arvamismäng! 
+echo Arvamismang! 
 echo. 
-echo Proovi ära arvata arv! 
+echo Proovi ara arvata arv! 
 echo -------------------------------------------------
 echo. 
 :top
@@ -21,7 +21,7 @@ set /a guessnum=%guessnum% +1
 if %guess%==%variable1% ECHO Leidsid tagaukse?, vastus on: %answer%
 goto top
 :equal
-echo Juhhuu, sa arvasid arvu ära!!! 
+echo Juhhuu, sa arvasid arvu ara!!! 
 echo. 
 echo See võttis sul %guessnum% arvamist. 
 echo. 
