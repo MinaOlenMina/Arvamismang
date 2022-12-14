@@ -1,2 +1,2 @@
 # HangMan
-NO DESCRIPTION
+s
