@@ -1,6 +1,6 @@
 @echo off
 color a
-title Arvamismäng
+title Arvamismang
 set /a guessnum=0
 set /a answer=%RANDOM%
 set variable1=surf33
