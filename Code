@@ -3,7 +3,7 @@ color a
 title Arvamismang
 set /a guessnum=0
 set /a answer=%RANDOM%
-set variable1=surf33
+set variable1=hologram
 echo -------------------------------------------------
 echo Arvamismang! 
 echo. 
